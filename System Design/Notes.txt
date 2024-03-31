@@ -1,0 +1,23 @@
+In simple terms, how SD terms look like
+
+Availability: System always accessible.
+Durability: Data always preserved. //Consistent data
+Reliability: Consistent, accurate results. //you may rely completely with blind eyes that it will give you accurate answer
+Resilience: Quick recovery from failures.
+Robustness: Ability to handle errors or unexpected inputs without crashing.
+Fault Tolerance: Continued operation during failures.
+Performance: Speed and efficiency.
+Scalability: Handles increased workload.
+Partitioning: Divides data for efficiency. //logically seperated data to be partitioned different server nodes.
+Sharding: Distributes data across servers. //logically seperated data to be copied and mantained in different server nodes for quick access.
+
+In more words ::
+Availability: Ensuring that a system is operational and accessible to users when needed, without downtime or interruptions.
+Durability: Guaranteeing that data is reliably stored and preserved even in the face of failures, ensuring that it can be recovered and accessed when necessary.
+Reliability: Consistently delivering accurate and dependable results over time, without unexpected errors or failures.
+Resilience: The ability of a system to recover quickly and gracefully from failures or disruptions, minimizing downtime and maintaining functionality.
+Fault Tolerance: Designing systems to continue functioning even when components fail, by incorporating redundancy and error-handling mechanisms.
+Performance: The speed and efficiency with which a system performs tasks or processes data, often measured in terms of response time, throughput, and latency.
+Scalability: The ability of a system to handle increased workload or user demand by efficiently allocating resources and adapting to changing conditions.
+Partitioning: Dividing data or workload into smaller segments or partitions to distribute processing and storage across multiple nodes or servers, improving performance and scalability.
+Sharding: A specific form of partitioning where data is horizontally divided into shards, each managed by separate database instances or servers, to distribute the load and improve scalability.

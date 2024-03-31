@@ -1,0 +1,3 @@
+Level1 : Arrays, Strings, Linkedlist
+Level2 : hashmap, queue, stack, trees
+level 3: graph, dp, recursion
