@@ -1,3 +1,62 @@
 Level1 : Arrays, Strings, Linkedlist
 Level2 : hashmap, queue, stack, trees
 level 3: graph, dp, recursion
+
+
+
+2 pointers
+-pointers running from both ends(2sum/3sum)
+-both pointers moving from same end
+-sliding windows problems(subaarays/k-diff)
+-fast and slow pointers(cycle detect/starting point of cycle/starting indes of duplicate element in an array)
+-pointers running from different arrays(merge sort/inversion count)
+-2 pointers on LL
+-recursive 2 pointer on LL(palindrome can be solved/re ordering of LL)
+-sliding window with hashing
+
+binary search
+-lower bound and upper bound(x<= and > based problems in sorted array)
+-missing elements or repeating elements(find unique or duplicate ele)
+-binary search on Ans[search space/range of numbers or answers](sqaure root, minimum number of bags in a bag)
+-minimax problems(aggressive cows/distribute chocolates/book allocation/painter partition) [hint max of min or min of max, will be asked]
+-binary search on unsorted space(peak elements)
+-binary search on unimodal functions meaning first monotonic increasing then monotonic decreasing only(search in sorted rotated array,
+minimum of roatated sorted array)
+-binary search on real numbers(rarely asked and hard level problems with non-int to deal with precision)
+-binary search with dynamic programming(LIS/longest increasing sequence)
+-MISC problems --> order statstics problem(median of sorted arrays/matrix median)
+
+linkedlist
+-fast and slow pointers or hare and tortorise
+-pointer with some distance(remove kth node form the last)
+-2 pointer on 2 diff LL(palindrom of LL)
+-sorting on LL
+-reverse of LL
+-take dummy nodes 
+-cloning a LL/ random pointer of LL
+-LRU/LFU cache
+-implement hashtable
+
+tree
+-dp on tree(diameter/ longest path in a tree/ camera)
+-serialization/ deserialization
+-LCA and distances(shortest path between two nodes)
+-iterative traversals(in order/ pre order/ post order)
+-level order traversal
+-views(left/ right/ top/ bottom/ boundary/ horiztonal traversal/ vertical trversal/ width of tree)
+-construction(given two traversal, create BT/BST, LL to BT/BST)
+-removal and trimming(add or delete a node)
+-DFS based searching(max or min in BT, mirror tree)
+-order statistic(find kth ele in tree, or closest ele in tree)(quick select and heaps are order stats algos)
+-construct tree using array
+
+stack
+-prefix infix postfix(evaulation/ conversion)
+-min stack implementation
+-multi stack problems(stack reverse, sort stack, create stack usign stacks, queues)
+-continous data based problems(removes consecutive chars from string, backspace, file directory)
+-deisgn problems(browser history, text editor)
+-problems involving tree traversal(solve tree problems using stack)
+-NGE,PGE,PSE,NSE(stock span, trapping rain water, histogram)
+-monotonus stack(132 stack sort)
+-stack + math and adhoc(deode a string)
