@@ -60,3 +60,4 @@ stack
 -NGE,PGE,PSE,NSE(stock span, trapping rain water, histogram)
 -monotonus stack(132 stack sort)
 -stack + math and adhoc(deode a string)
+-two pointers each from one end cum greedy approach(678. Valid Parenthesis String, most problems in greedy manner)
