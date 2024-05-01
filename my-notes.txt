@@ -1,0 +1,30 @@
+Here's from where I had studied for the 3 months I was trying for switch (after 2 years in the industry):
+
+• DSA from raj vikramaditya 's '79 Last Moment Problems', and some Graph and Tree problems from his 'A2Z Sheet' (that's all!)
+• Keerti Purswani 's Design Pattern playlist and HLD mock interviews on YouTube in 1.5x speed
+• Gaurav Sen 's HLD playlist (again mostly in 1.5x)
+• Prasad Gujar 's LLD Primer repo for LLD practice: https://lnkd.in/gT6cs3K5 (I got one of the interview-questions directly from this set!)
+https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
+• Grokking the System Design Interview by Design Gurus (I actually bought this course to track my progress for a week, but you can get the material for free in multiple 
+Github repositories)
+
+Imo, it's not too hard to gather a limited set of resources and start preparing from it. What's harder is to believe you'll ever be fully prepared for an interview, 
+which you'll never be to be honest.
+So start giving interviews, and preparation will follow 🙂
+
+All the best who're trying now.
+See you on the other side! 
+
+
+Great programmer. Wow, made my day, you ^. I'm one amongst many. Just got lucky here. Interviews are subjective. However, I can share what I do in general.
+
+Strong computer science fundamentals. I mean I can argue if we need HBase or Cassandra as a data store with valid data points in a jiffy.
+I actively review other's code and seek feedback for my work. Be it designs, code quality etc.
+My weekends are usually me consuming good company tech blogs like Netflix/Uber/High Scalability, conference Tech talks, podcasts etc.
+I actively contribute to open source. I am a stickler for documentations and presentations (this helps in my code quality and modularity)
+I write about my work. I share stuff to the extent I can (just like I shared the offers and the experience here)
+I read tech books. Books have been and will remain vastly superior to blogs solely because of the depth they go into.
+I leetcode at least once in three weeks. No heavy competitions, just enough to stay relevant.
+I read and try to understand how people operate (re: good books) and make decisions in general so I can give them the best insights into me (helps in behavioural interviews)
+I ask "relevant" clarifying questions. No matter what. If I am coming as an L4, I make sure that I have a path to L5 and I'll discuss this with them upfront.
+Lastly, I love what I do :
